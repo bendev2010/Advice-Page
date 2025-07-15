@@ -7,6 +7,6 @@ It will have
 * Nutrition !
 * and more later
 
-I also watn to make a card design and have the website know which day of the week it is. (JS)
+I also want to make a card design and have the website know which day of the week it is. (JS)
 
 !!! = size/importance of the card it represents
